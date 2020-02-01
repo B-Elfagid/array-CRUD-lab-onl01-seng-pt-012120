@@ -1,4 +1,3 @@
-def create_an_array
 create_an_array["b", "c", "d", "e"]
 empty_array = []
 create_an_array << "f"
