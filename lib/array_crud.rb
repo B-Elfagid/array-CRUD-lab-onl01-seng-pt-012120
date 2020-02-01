@@ -31,7 +31,6 @@ def retrieve_element_from_index(array, index_number)
  end
  
  def retrieve_last_element_from_array(array)
-    x = array.count
     array[-1]
   end
   
